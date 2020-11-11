@@ -11,9 +11,8 @@
 ### 공헌한 내용
 * 참여도: **40%**
 * 화면 구성: Java Swing
-* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
 * DB액션 처리: JDBC 기본 Connection
-* 개발 Tool : Eclips
+* 개발 Tool : Eclips, SQLDeveloper
 <br>
 
 
@@ -28,8 +27,9 @@
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
+* 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
+* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
 <br>
-
 
 <br>
 

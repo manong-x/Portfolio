@@ -1,8 +1,7 @@
 ## 유의상 포트폴리오
+<hr>
 
 ### 프로젝트
-
-
 [점톡 (바로가기)](https://github.com/devYoooo/Jumtalk)
 
 ### 개요
@@ -18,6 +17,7 @@
 <br>
 
 
+### 프로젝트
 [OP_IT (바로가기)](https://github.com/devYoooo/OP_IT)
 
 ### 개요
@@ -34,6 +34,8 @@
 <br>
 <hr>
 <br>
+
+
 
 
 ## 코리아IT아카데미 이수 교육 내역서

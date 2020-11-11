@@ -1,6 +1,6 @@
 <h2 align="center">포트폴리오</h2>
 <p align="center">
-  🙍‍♂️  유의상   🙍‍♀️
+  🙍‍♂️  <strong>유의상</strong>   🙍‍♀️
 </p>
 
 

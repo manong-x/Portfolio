@@ -1,8 +1,7 @@
-<h2 align="center">유의상 포트폴리오</h2>
 <p align="center">
-  🙍‍♂️Korea IT Academy Project Developers in 2020🙍‍♀️
+  🙍‍♂️<h2 align="center">유의상 포트폴리오</h2>🙍‍♀️
 </p>
-* * *
+
 
 
 ### 프로젝트

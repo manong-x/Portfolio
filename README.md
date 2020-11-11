@@ -1,5 +1,6 @@
 ## 유의상 포트폴리오
 <hr>
+<br>
 
 ### 프로젝트
 [점톡 (바로가기)](https://github.com/devYoooo/Jumtalk)
@@ -12,10 +13,8 @@
 * 화면 구성: Java Swing
 * DB액션 처리: JDBC 기본 Connection
 * 개발 Tool : Eclips, SQLDeveloper
-<br>
-<hr>
-<br>
 
+<hr>
 
 ### 프로젝트
 [OP_IT (바로가기)](https://github.com/devYoooo/OP_IT)
@@ -31,11 +30,8 @@
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
 * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
 * 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
-<br>
+
 <hr>
-<br>
-
-
 
 
 ## 코리아IT아카데미 이수 교육 내역서

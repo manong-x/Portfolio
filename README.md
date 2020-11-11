@@ -14,6 +14,8 @@
 * DB액션 처리: JDBC 기본 Connection
 * 개발 Tool : Eclips, SQLDeveloper
 <br>
+***
+<br>
 
 
 [OP_IT (바로가기)](https://github.com/devYoooo/OP_IT)
@@ -30,7 +32,7 @@
 * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
 * 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
 <br>
-
+***
 <br>
 
 

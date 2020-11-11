@@ -2,8 +2,20 @@
 <p align="center">
   🙍‍♂️  <strong>유의상</strong>   🙍‍♀️
 </p>
+<br><br>
 
+### 프로젝트
+[RemoteH/W (바로가기)](https://github.com/devYoooo/RemoteHW)
 
+### 개요
+* 하나의 모바일 장치에서 해당 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있도록 개발
+
+### 공헌한 내용
+* 참여도: **30%**
+* 대학교 졸업작품
+* 안드로이드 XML, 자바 Swing 및 기본 로직
+
+<hr>
 
 ### 프로젝트
 [점톡 (바로가기)](https://github.com/devYoooo/Jumtalk)
@@ -23,7 +35,7 @@
 [OP_IT (바로가기)](https://github.com/devYoooo/OP_IT)
 
 ### 개요
-* **JSP** 전 세계 1위 게임인 리그오브레전드의 전적 검색(ajax(json))과 커뮤니티 게시판(MVC Model2)을 간편하게 한 사이트에서 이용할 수 있도록 개발
+* 전 세계 1위 게임인 리그오브레전드의 전적 검색(ajax(json))과 커뮤니티 게시판(MVC Model2)을 간편하게 한 사이트에서 이용할 수 있도록 개발
 
 ### 공헌한 내용
 * 참여도: **60%**
@@ -35,6 +47,8 @@
 * 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
 
 <hr>
+
+
 
 
 ## 코리아IT아카데미 이수 교육 내역서

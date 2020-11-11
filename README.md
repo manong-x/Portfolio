@@ -1,6 +1,7 @@
 ## 유의상 포트폴리오
-<hr>
 <br>
+<hr>
+
 
 ### 프로젝트
 [점톡 (바로가기)](https://github.com/devYoooo/Jumtalk)

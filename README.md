@@ -5,7 +5,7 @@
 <br><br><br>
 
 ### 프로젝트
-[RemoteH/W (레파지토리 바로가기)](https://github.com/devYoooo/RemoteHW)
+[RemoteH/W (<< go Repository)](https://github.com/devYoooo/RemoteHW)
 
 ### 개요
 * 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있도록 개발
@@ -19,7 +19,7 @@
 <hr>
 
 ### 프로젝트
-[점톡 (레파지토리 바로가기)](https://github.com/devYoooo/Jumtalk)
+[점톡 (<< go Repository)](https://github.com/devYoooo/Jumtalk)
 
 ### 개요
 * 개인사업자(점술가)와 일반 고객간의 사전 예약을 통한 1:1 채팅(비대면) 시스템 개발
@@ -35,7 +35,7 @@
 <hr>
 
 ### 프로젝트
-[OP_IT (레파지토리 바로가기)](https://github.com/devYoooo/OP_IT)
+[OP_IT (<< go Repository)](https://github.com/devYoooo/OP_IT)
 
 ### 개요
 * 전 세계 1위 게임인 리그오브레전드의 전적 검색(ajax(json))과 커뮤니티 게시판(MVC Model2)을 간편하게 한 사이트에서 이용할 수 있도록 개발

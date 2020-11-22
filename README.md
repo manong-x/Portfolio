@@ -53,6 +53,26 @@
 <hr>
 
 
+
+### 프로젝트
+[KOREABOX (바로가기)](https://github.com/devYoooo/KOREABOX)
+
+### 개요
+* 전 세계 1위 게임인 리그오브레전드의 전적 검색(ajax(json))과 커뮤니티 게시판(MVC Model2)을 간편하게 한 사이트에서 이용할 수 있도록 개발
+
+### 공헌한 내용
+* 팀장:crown:
+* 참여도: **60%**
+* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, 전적검색 페이지(JSON), 게시판(설계), 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..) 매핑 구현
+* GitHub
+* HTML, CSS, BootStrap, JavaScript, jQuery
+* Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
+* 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
+* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
+<br>
+<hr>
+
+
 <h2 align="center">코리아IT아카데미 이수 교육 내역</h2>
 
 ### 이수 과정명

@@ -64,7 +64,7 @@
 
 ### 공헌한 내용
 * 팀장:crown:
-* 참여도: **40%**
+* 참여도: **??%**
 * 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery

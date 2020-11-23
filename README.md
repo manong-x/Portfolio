@@ -86,11 +86,11 @@
 * 2020.04.03 ~ 12.10  09:00 ~ 15:30 (8개월, 일 5.5시간 총 856시간)
 
 ### 교육 내용
+- **아두이노**<br>
+
 - **JAVA 프로그래밍**<br>
   객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream
 
-- **아두이노**<br>
-  
 - **Oracle 및 JDBC**<br>
   DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View JDBC, 트랜잭션 처리
   

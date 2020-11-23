@@ -89,18 +89,18 @@
 - **아두이노**<br>
 
 - **JAVA 프로그래밍**<br>
-  객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream
+  객체지향 프로그래밍, 다형성, JCF(Collection, List,Set, Map), Exception Handling, Inner class, Stream
 
 - **Oracle 및 JDBC**<br>
   DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View JDBC, 트랜잭션 처리
   
 - **웹 프론트 엔드**<br>
-  jQuery웹서비스 활용, Ajax XMLHttpRequest서버와의 통신 이해, GoogleMap등 오픈API활용, JSON 파싱 학습<br>
+  jQuery웹서비스 활용, Ajax XMLHttpRequest서버와의 통신 이해, GoogleMap등 오픈API활용, JSON/XML 파싱, bootstrap 활용<br>
   
 - **JSP 기반 웹 프로그래밍**<br>
   Servlet / JSP / JSTL / EL /  쿠키, 세션, 파일업로드 MVC model2 기반 웹 어플리케이션 구현  AJAX, API 서버 설계 및 구축  Jackson, COS 등 라이브러리 활용  CKEditor 연동  Tomcat 서버
   JSP MVC모델2 기반 웹어플리케이션 제작
   
-- **Spring 3.0 / MyBatis (120시간)**<br>
+- **Spring 3.0 / MyBatis**<br>
   Dependency Injection, Autowire, DI Config, AOP. Sping MVC,  request mapping, validation, Spring-jdbc, Transaction
   ORM (MyBatis), Interceptor, REST, Secutiry,

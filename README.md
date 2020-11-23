@@ -86,22 +86,22 @@
 * 2020.04.03 ~ 12.10  09:00 ~ 15:30 (8개월, 일 5.5시간 총 856시간)
 
 ### 교육 내용
-- **JAVA 프로그래밍 (336시간)**<br>
-  기본문법 및 객체지향에 대한 개념과 이해, JCF(Collection, List,Set, Map), Exception Handling, 다형성 학습
+- **JAVA 프로그래밍**<br>
+  객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream
+
+- **아두이노 **<br>
+  기본 사용법<br>
   
-- **JavaScript / HTML 5 / CSS3 /  (160시간)**<br>
-  JavaScript 기본 문법, function, Prototype 및 웹표준 기반의 HTML5 마크업, CSS3스타일링 학습<br>
+- **Oracle 및 JDBC**<br>
+  DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View JDBC, 트랜잭션 처리
   
-- **Oracle (40시간)**<br>
-  DML, DDL, DCL, subquery, join, PL/SQL , 기본문법 학습
-  
-- **jQuery / jQueryUI / Bootstrap / Ajax / JSON / XML /GoogleMap (80시간)**<br>
+- **웹 프론트 엔드**<br>
   jQuery웹서비스 활용, Ajax XMLHttpRequest서버와의 통신 이해, GoogleMap등 오픈API활용, JSON 파싱 학습<br>
   
-- **Servlet / JSP / JSTL / EL (120시간)**<br>
-  MVC기반 Web serivce구현, Container의 사용법, Java Web Service시 폴더구성,<br>
-  Servlet 작성법 및 요청과 응답의 사용(HttpServletRequest, HttpServletResponse), EL, JSTL 학습<br>
+- **JSP 기반 웹 프로그래밍**<br>
+  Servlet / JSP / JSTL / EL /  쿠키, 세션, 파일업로드 MVC model2 기반 웹 어플리케이션 구현  AJAX, API 서버 설계 및 구축  Jackson, COS 등 라이브러리 활용  CKEditor 연동  Tomcat 서버
+  JSP MVC모델2 기반 웹어플리케이션 제작
   
 - **Spring 3.0 / MyBatis (120시간)**<br>
-  Spring3.0의 특징 및 모듈 설정, Spring DI 객체간의 의존성 주입에 대한 이해와 실습,<br>
-  Spring MVC처리, Spring Security, Spring ORM의 사용, MyBatis 연동, Spring Tool Suite
+  Dependency Injection, Autowire, DI Config, AOP. Sping MVC,  request mapping, validation, Spring-jdbc, Transaction
+  ORM (MyBatis), Interceptor, REST, Secutiry,

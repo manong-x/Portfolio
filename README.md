@@ -89,8 +89,7 @@
 - **JAVA 프로그래밍**<br>
   객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream
 
-- **아두이노 **<br>
-  기본 사용법<br>
+- **아두이노**<br>
   
 - **Oracle 및 JDBC**<br>
   DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View JDBC, 트랜잭션 처리

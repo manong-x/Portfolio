@@ -60,11 +60,11 @@
 [KOREABOX (바로가기)](https://github.com/devYoooo/KOREABOX)
 
 ### 개요
-* 영화 예매를 위한 스프링 기반 사이트 개발
+* 영화 예매를 위한 스프링3.0 MVC 기반 사이트 개발
 
 ### 공헌한 내용
 * 팀장:crown:
-* 참여도: **??%**
+* 참여도: **50%**
 * 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery

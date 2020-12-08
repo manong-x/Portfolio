@@ -65,12 +65,12 @@
 ### 공헌한 내용
 * 팀장:crown:
 * 참여도: **50%**
-* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
+* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, 상영스케줄관리, 상영관관리, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..) 매핑
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
 * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
-* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL, Spring
+* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL, Spring3.0 MVC
 <br>
 <hr>
 

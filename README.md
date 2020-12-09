@@ -4,7 +4,7 @@
 </p>
 <br><br><br>
 
-### 프로젝트 1 - ####[대학교 졸업작품]
+### 프로젝트 1
 [RemoteH/W (바로가기)](https://github.com/devYoooo/RemoteHW)
 
 ### 개요
@@ -19,7 +19,6 @@
 <hr>
 
 ### 프로젝트 2
-[코리아아카데미]<br>
 [점톡 (바로가기)](https://github.com/devYoooo/Jumtalk)
 
 ### 개요
@@ -38,7 +37,6 @@
 
 
 ### 프로젝트 3
-[코리아아카데미]<br>
 [OP_IT (바로가기)](https://github.com/devYoooo/OP_IT)
 
 ### 개요
@@ -59,7 +57,6 @@
 
 
 ### 프로젝트 4
-[코리아아카데미]<br>
 [KOREABOX (바로가기)](https://github.com/devYoooo/KOREABOX)
 
 ### 개요

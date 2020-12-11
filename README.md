@@ -28,6 +28,8 @@
 * 팀장:crown:
 * 참여도: **50%**
 * 프로젝트 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, 예약시스템 구축(사용자, 개인사업자, 관리자), <br>프로그램 전체 예외처리
+
+### 스택
 * 화면 구성: Java Swing
 * DB액션 처리: JDBC 기본 Connection
 * 개발 Tool : Eclips, SQLDeveloper
@@ -46,6 +48,8 @@
 * 팀장:crown:
 * 참여도: **60%**
 * 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, 전적검색 페이지(JSON), 게시판(설계), 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..) 매핑 구현
+
+### 스택
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
@@ -66,6 +70,8 @@
 * 팀장:crown:
 * 참여도: **50%**
 * 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, 상영스케줄관리, 상영관관리, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..) 매핑
+
+### 스택
 * GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0

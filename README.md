@@ -1,7 +1,7 @@
 <h2 align="center">포트폴리오</h2>
 <p align="center">
   🌱  <strong>유의상</strong> 🌱
-  <strong>프로젝트는 최신 작성순으로 나열 !</strong>
+  <br><strong>프로젝트는 최신 작성순으로 나열 !</strong>
 </p>
 <br><br><br>
 

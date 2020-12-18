@@ -5,41 +5,28 @@
 <br><br><br>
 
 ### 프로젝트 1
-[RemoteH/W (저장소바로가기)](https://github.com/devYoooo/RemoteHW)
+[KOREABOX (저장소바로가기)](https://github.com/devYoooo/KOREABOX)
 
 ### 개요
-* 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있는 프로그램입니다.
-
-### 공헌한 내용
-* 대학교 졸업작품
-* 팀원
-* 참여도: **15%**
-* 안드로이드 XML, 자바 Swing 
-<br>
-<hr>
-
-### 프로젝트 2
-[점톡 (저장소바로가기)](https://github.com/devYoooo/Jumtalk)
-
-### 개요
-* 개인사업자(점술가) 고객간의 예약시스템을 통한 1:1 채팅(비대면) 시스템을 이용해 원하는 서비스를 이용할 수 있는 프로그램입니다.
+* 영화 예매를 위한 스프링3.0 MVC 기반 사이트입니다.
 
 ### 공헌한 내용
 * 팀장:crown:
 * 참여도: **50%**
-* 프로젝트 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성,프로그램 전체 예외처리
-* 예약시스템 구축(사용자, 개인사업자, 관리자)
+* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
+* 상영스케줄관리, 상영관관리, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..)
 
 ### 스택
-* 화면 구성: Java Swing
-* DB액션 처리: JDBC 기본 Connection
-* 개발 Tool : Eclips, SQLDeveloper
+* GitHub
+* HTML, CSS, BootStrap, JavaScript, jQuery
+* Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
+* 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
+* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL, Spring3.0 MVC
 <br>
 <hr>
 
 
-
-### 프로젝트 3
+### 프로젝트 2
 [OP_IT (저장소바로가기)](https://github.com/devYoooo/OP_IT)
 
 ### 개요
@@ -61,28 +48,40 @@
 <hr>
 
 
-
-### 프로젝트 4
-[KOREABOX (저장소바로가기)](https://github.com/devYoooo/KOREABOX)
+### 프로젝트 3
+[점톡 (저장소바로가기)](https://github.com/devYoooo/Jumtalk)
 
 ### 개요
-* 영화 예매를 위한 스프링3.0 MVC 기반 사이트입니다.
+* 개인사업자(점술가) 고객간의 예약시스템을 통한 1:1 채팅(비대면) 시스템을 이용해 원하는 서비스를 이용할 수 있는 프로그램입니다.
 
 ### 공헌한 내용
 * 팀장:crown:
 * 참여도: **50%**
-* 프로젝트 및 Github 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성
-* 상영스케줄관리, 상영관관리, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..)
+* 프로젝트 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성,프로그램 전체 예외처리
+* 예약시스템 구축(사용자, 개인사업자, 관리자)
 
 ### 스택
-* GitHub
-* HTML, CSS, BootStrap, JavaScript, jQuery
-* Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
-* 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
-* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL, Spring3.0 MVC
+* 화면 구성: Java Swing
+* DB액션 처리: JDBC 기본 Connection
+* 개발 Tool : Eclips, SQLDeveloper
 <br>
 <hr>
 
+
+
+### 프로젝트 4
+[RemoteH/W (저장소바로가기)](https://github.com/devYoooo/RemoteHW)
+
+### 개요
+* 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있는 프로그램입니다.
+
+### 공헌한 내용
+* 대학교 졸업작품
+* 팀원
+* 참여도: **15%**
+* 안드로이드 XML, 자바 Swing 
+<br>
+<hr>
 
 
 

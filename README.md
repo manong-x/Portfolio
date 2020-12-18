@@ -4,6 +4,8 @@
 </p>
 <br><br><br>
 
+#### 프로젝트는 최신 작성순으로 나열 !
+
 ### 프로젝트 1
 [KOREABOX (저장소바로가기)](https://github.com/devYoooo/KOREABOX)
 

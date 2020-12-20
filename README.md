@@ -18,7 +18,7 @@
 * 상영스케줄관리, 상영관관리, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..)
 
 ### 스택
-* Restfull API
+* Restfull API(상영스케줄관리, 상영관관리, 마이페이지)
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
 * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON

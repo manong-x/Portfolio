@@ -18,7 +18,7 @@
 * 상영스케줄관리, 상영관관리, 마이페이지, 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..)
 
 ### 스택
-* GitHub
+* Restfull API
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
 * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
@@ -40,7 +40,6 @@
 * 전적검색 페이지(JSON), 게시판(설계 및 기본틀 구현(인터페이스, 커맨드 구조)), 프로그램 전체 예외처리 및 에러페이지(ex..404, 429..) 
 
 ### 스택
-* GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle(JDBC - connectionPool 이용), Apache Tomcat v9.0
 * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON

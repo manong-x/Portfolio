@@ -6,7 +6,7 @@
 
 
 ### 프로젝트 1
-[KOREABOX (저장소바로가기)](https://github.com/devYoooo/KOREABOX)
+[KOREABOX (저장소바로가기)](https://github.com/EuiSang-Yu/spring-movie-reserve-restfull)
 
 ### 개요
 * 영화 예매를 위한 스프링3.0 MVC 기반 사이트입니다.

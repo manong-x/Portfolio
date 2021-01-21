@@ -70,7 +70,7 @@
 
 
 ### 프로젝트 4
-[RemoteH/W (저장소바로가기)](https://github.com/devYoooo/RemoteHW)
+[RemoteH/W (저장소바로가기)](https://github.com/EuiSang-Yu/java-android-remote-hardware)
 
 ### 개요
 * 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있는 프로그램입니다.

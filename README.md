@@ -49,7 +49,7 @@
 
 
 ### 프로젝트 3
-[점톡 (저장소바로가기)](https://github.com/devYoooo/Jumtalk)
+[점톡 (저장소바로가기)](https://github.com/EuiSang-Yu/java-chat)
 
 ### 개요
 * 개인사업자(점술가) 고객간의 예약시스템을 통한 1:1 채팅(비대면) 시스템을 이용해 원하는 서비스를 이용할 수 있는 프로그램입니다.

@@ -4,12 +4,13 @@
 </p>
 <br><br><br>
 
-### 학습중 1
+### 진행중 1
 [react-redux (저장소바로가기)](https://github.com/EuiSang-Yu/react-redux)
 
-### 학습중 2
+### 진행중 2
 [react-redux-server-NodeJS (저장소바로가기)](https://github.com/EuiSang-Yu/react-redux-server-NodeJS)
 
+<br>
 <hr>
 
 

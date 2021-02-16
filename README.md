@@ -10,6 +10,7 @@
 ### 학습중 2
 [react-redux-server-NodeJS (저장소바로가기)](https://github.com/EuiSang-Yu/react-redux-server-NodeJS)
 
+<hr>
 
 
 ### 프로젝트 1

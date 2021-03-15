@@ -2,8 +2,7 @@
 <p align="center">
   🙍‍♂️ <strong>유의상</strong> 🙍‍♀️
 </p>
-<br><br><br>
-<hr>
+<br><br>
 
 
 ### 프로젝트 1

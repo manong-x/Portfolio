@@ -3,14 +3,6 @@
   🙍‍♂️ <strong>유의상</strong> 🙍‍♀️
 </p>
 <br><br><br>
-
-### 진행중 1
-[react-redux (저장소바로가기)](https://github.com/EuiSang-Yu/react-redux)
-
-### 진행중 2
-[react-redux-server-NodeJS (저장소바로가기)](https://github.com/EuiSang-Yu/react-redux-server-NodeJS)
-
-<br>
 <hr>
 
 

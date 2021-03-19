@@ -87,7 +87,7 @@
 
 ### 추가할 사항
 * React(redux) + Node.js(express) + MSSQL ==> 배포까지
-* SpringBoot + thymeleaf + JPA ==> 우선 게시판 
+* SpringBoot + thymeleaf + JPA(MySQL) ==> 우선 게시판 
 
 <br>
 <hr>

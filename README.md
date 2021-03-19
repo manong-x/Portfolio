@@ -85,7 +85,9 @@
 <br>
 <hr>
 
-
+### 추가할 사항
+* React(redux) + Node.js(express) + MSSQL ==> 배포까지
+* SpringBoot + thymeleaf + JPA ==> 우선 게시판 
 
 <h2 align="center">코리아IT아카데미 이수 교육 내역</h2>
 

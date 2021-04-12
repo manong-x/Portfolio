@@ -1,4 +1,4 @@
-<h2 align="center">포트폴리오</h2>
+<h1 align="center">포트폴리오</h1>
 <p align="center">
   🙍‍♂️ <strong>유의상</strong> 🙍‍♀️
 </p>

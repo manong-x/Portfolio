@@ -86,8 +86,7 @@
 <hr>
 
 ### 추가할 사항
-* React(redux) + Node.js(express) + MSSQL ==> 실서버 배포까지(리눅스)
-* SpringBoot + thymeleaf + JPA(MySQL) ==> 우선 게시판만
+* SpringBoot + thymeleaf + JPA(MySQL) ==> 우선 게시판만 
 
 <br>
 <hr>

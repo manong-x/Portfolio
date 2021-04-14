@@ -87,7 +87,7 @@
 
 ### 추가할 사항
 * SpringBoot + thymeleaf + JPA(MySQL) ==> 우선 게시판만 
-* [SpringBoot게시판 (저장소바로가기)](https://github.com/manong-x/)
+* [SpringBoot게시판 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
 
 <br>
 <hr>

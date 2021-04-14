@@ -6,7 +6,7 @@
 
 
 ### 프로젝트 1
-[KOREABOX (저장소바로가기)](https://github.com/EuiSang-Yu/spring-movie-reserve-restfull)
+[KOREABOX (저장소바로가기)](https://github.com/manong-x/spring-movie-reserve-restfull)
 
 ### 개요
 * 영화 예매를 위한 스프링3.0 MVC 기반 사이트입니다.
@@ -28,7 +28,7 @@
 
 
 ### 프로젝트 2
-[OP_IT (저장소바로가기)](https://github.com/EuiSang-Yu/jsp-bbs-and-ajax)
+[OP_IT (저장소바로가기)](https://github.com/manong-x/jsp-bbs-and-ajax)
 
 ### 개요
 * 전세계 1위 게임인 라이엇의 리그오브레전드 게임의 전적 검색 및 공략을 공유할 수 있는 게시판이 있는 JSP기반 웹 사이트입니다.
@@ -49,7 +49,7 @@
 
 
 ### 프로젝트 3
-[점톡 (저장소바로가기)](https://github.com/EuiSang-Yu/java-chat)
+[점톡 (저장소바로가기)](https://github.com/manong-x/java-chat)
 
 ### 개요
 * 개인사업자(점술가) 고객간의 예약시스템을 통한 1:1 채팅(비대면) 시스템을 이용해 원하는 서비스를 이용할 수 있는 프로그램입니다.
@@ -70,7 +70,7 @@
 
 
 ### 프로젝트 4
-[RemoteH/W (저장소바로가기)](https://github.com/EuiSang-Yu/java-android-remote-hardware)
+[RemoteH/W (저장소바로가기)](https://github.com/manong-x/java-android-remote-hardware)
 
 ### 개요
 * 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있는 프로그램입니다.
@@ -87,6 +87,7 @@
 
 ### 추가할 사항
 * SpringBoot + thymeleaf + JPA(MySQL) ==> 우선 게시판만 
+* [SpringBoot게시판 (저장소바로가기)](https://github.com/manong-x/)
 
 <br>
 <hr>

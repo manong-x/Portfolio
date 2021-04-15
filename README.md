@@ -1,6 +1,6 @@
 <h1 align="center">포트폴리오</h1>
 <p align="center">
-  🙍‍♂️ <strong>유의상</strong> 🙍‍♀️
+  🗨️ <strong>유의상</strong> 
 </p>
 <br><br>
 

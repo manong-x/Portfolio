@@ -120,7 +120,7 @@
 * 개인 프로젝트
 
 ### 스택
-* Spring Security
+* 
 <br>
 
 <hr>

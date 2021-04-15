@@ -94,10 +94,19 @@
 <br>
 <hr>
 
-### 추가할 사항
-* SpringBoot + thymeleaf + JPA(MySQL) ==> 우선 게시판만 
-* [SpringBoot게시판 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
+### 프로젝트 5
+[SpringBoot게시판 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
 
+### 개요
+* 스프링부트 + JPA + thymeleaf 학습 목표 게시판부터 시작
+
+### 공헌한 내용
+* 개인 프로젝트
+
+### 스택
+* Spring Security
+<br>
+<hr>
 <br>
 <hr>
 

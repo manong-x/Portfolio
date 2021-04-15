@@ -106,8 +106,7 @@
 ### 스택
 * Spring Security
 <br>
-<hr>
-<br>
+
 <hr>
 
 <h2 align="center">코리아IT아카데미 이수 교육 내역</h2>

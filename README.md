@@ -4,7 +4,6 @@
 </p>
 <br><br>
 
-<br><hr>
 <span align="center">
   
 ## [스프링부트 게시판 학습용 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)

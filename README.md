@@ -4,15 +4,6 @@
 </p>
 <br><br>
 
-### 목차
-> [스프링부트 게시판 학습용](#스프링부트-게시판-학습용-)<br>
-[KOREABOX](#KOREABOX-)<br>
-[OP_IT](#프로젝트-2)<br>
-[점톡](#프로젝트-3)<br>
-[RemoteH/W](#프로젝트-4)<br>
-
-
-
 <br><hr>
 <span align="center">
   

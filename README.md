@@ -5,11 +5,11 @@
 <br><br>
 
 ### 목차
-> [프로젝트0](#프로젝트-0)<br>
-[프로젝트1](#프로젝트-1)<br>
-[프로젝트2](#프로젝트-2)<br>
-[프로젝트3](#프로젝트-3)<br>
-[프로젝트4](#프로젝트-4)<br>
+> [스프링부트 게시판 학습용](#프로젝트-0)<br>
+[KOREABOX](#프로젝트-1)<br>
+[OP_IT](#프로젝트-2)<br>
+[점톡](#프로젝트-3)<br>
+[RemoteH/W](#프로젝트-4)<br>
 
 
 
@@ -17,7 +17,7 @@
 <span align="center">
   
 ### 프로젝트 0
-[SpringBoot게시판 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
+[스프링부트 게시판 학습용 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
 
 </span>
 

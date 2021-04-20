@@ -5,8 +5,8 @@
 <br><br>
 
 ### 목차
-> [스프링부트 게시판 학습용](#프로젝트-0)<br>
-[KOREABOX](#프로젝트-1)<br>
+> [스프링부트 게시판 학습용](#스프링부트-게시판-학습용-)<br>
+[KOREABOX](#KOREABOX-)<br>
 [OP_IT](#프로젝트-2)<br>
 [점톡](#프로젝트-3)<br>
 [RemoteH/W](#프로젝트-4)<br>
@@ -16,7 +16,7 @@
 <br><hr>
 <span align="center">
   
-### [스프링부트 게시판 학습용 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
+## [스프링부트 게시판 학습용 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
 
 </span>
 
@@ -36,7 +36,7 @@
 
 <span align="center">
   
-### [KOREABOX (저장소바로가기)](https://github.com/manong-x/spring-movie-reserve-restfull)
+## [KOREABOX (저장소바로가기)](https://github.com/manong-x/spring-movie-reserve-restfull)
 
 </span>
 
@@ -60,7 +60,7 @@
 
 <span align="center">
   
-### [OP_IT (저장소바로가기)](https://github.com/manong-x/jsp-bbs-and-ajax)
+## [OP_IT (저장소바로가기)](https://github.com/manong-x/jsp-bbs-and-ajax)
 
 </span>
 
@@ -83,7 +83,7 @@
 
 <span align="center">
   
-### [점톡 (저장소바로가기)](https://github.com/manong-x/java-chat)
+## [점톡 (저장소바로가기)](https://github.com/manong-x/java-chat)
 
 </span>
 
@@ -106,7 +106,7 @@
 
 <span align="center">
   
-### [RemoteH/W (저장소바로가기)](https://github.com/manong-x/java-android-remote-hardware)
+## [RemoteH/W (저장소바로가기)](https://github.com/manong-x/java-android-remote-hardware)
 
 </span>
 

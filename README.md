@@ -5,14 +5,34 @@
 <br><br>
 
 ### 목차
-> [프로젝트1](#프로젝트-1)<br>
+> [프로젝트0](#프로젝트-0)<br>
+[프로젝트1](#프로젝트-1)<br>
 [프로젝트2](#프로젝트-2)<br>
 [프로젝트3](#프로젝트-3)<br>
 [프로젝트4](#프로젝트-4)<br>
-[프로젝트5](#프로젝트-5)
+
 
 
 <br><hr>
+<span align="center">
+  
+### 프로젝트 0
+[SpringBoot게시판 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
+
+</span>
+
+### 개요
+* 스프링부트 + JPA + thymeleaf 학습 목표 게시판부터 시작
+
+### 공헌한 내용
+* 개인 프로젝트
+
+### 스택
+* 
+<br>
+
+<hr>
+
 <span align="center">
   
 ### 프로젝트 1
@@ -106,24 +126,7 @@
 <br>
 <hr>
 
-<span align="center">
-  
-### 프로젝트 5
-[SpringBoot게시판 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
 
-</span>
-
-### 개요
-* 스프링부트 + JPA + thymeleaf 학습 목표 게시판부터 시작
-
-### 공헌한 내용
-* 개인 프로젝트
-
-### 스택
-* 
-<br>
-
-<hr>
 
 <h2 align="center">코리아IT아카데미 이수 교육 내역</h2>
 

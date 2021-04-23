@@ -4,7 +4,7 @@
 </p>
 <br><br>
 
-<span align="center">
+<span align="left">
   
 ## [스프링부트 게시판 학습용 (저장소바로가기)](https://github.com/manong-x/springboot-jpa-bbs)
 
@@ -24,7 +24,7 @@
 
 <hr>
 
-<span align="center">
+<span align="left">
   
 ## [KOREABOX (저장소바로가기)](https://github.com/manong-x/spring-movie-reserve-restfull)
 
@@ -48,7 +48,7 @@
 <br>
 <hr>
 
-<span align="center">
+<span align="left">
   
 ## [OP_IT (저장소바로가기)](https://github.com/manong-x/jsp-bbs-and-ajax)
 
@@ -71,7 +71,7 @@
 <br>
 <hr>
 
-<span align="center">
+<span align="left">
   
 ## [점톡 (저장소바로가기)](https://github.com/manong-x/java-chat)
 
@@ -94,7 +94,7 @@
 <hr>
 
 
-<span align="center">
+<span align="left">
   
 ## [RemoteH/W (저장소바로가기)](https://github.com/manong-x/java-android-remote-hardware)
 
